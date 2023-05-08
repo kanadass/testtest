@@ -152,6 +152,9 @@
 #
 # s = input().split()
 # smallest = 1000000000000000
+
+
+
 # count = 0
 # for i in range(len(s)):
 #     if 0 < int(s[i]) < smallest:
@@ -181,3 +184,6 @@
 #
 # 8 11 45 32 543 65
 # # 32
+
+
+print('change')
